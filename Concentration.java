@@ -27,7 +27,7 @@ s_2
 ...
 s_N
 s_i は i 番目のプレイヤーが取り除いたトランプの枚数を表します。
-
+*/
 
 public class Main {
     public static void main(String[] args) {
